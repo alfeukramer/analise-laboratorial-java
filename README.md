@@ -1,7 +1,7 @@
 # Projeto de Análise Laboratorial
 
+<p>Projeto desenvolvido para aprendizado, onde coloquei em prática os conhecimentos adquiridos de POO em Java.<br> Para a interação do usuário, utilizei a classe JOptionPane do framework Swing, onde ela cria uma interface gráfica.<br> Atividade desenvolvida do curso de Análise e Desenvolvimento de Sistemas Unicesumar.  </p>
 <h3>Esse projeto tem intuito de analisar amostras e classificá-las conforme um laboratório fictício.</h3><br>
-<p>Projeto desenvolvido para aprendizado, onde coloquei em prática os conhecimentos adquiridos de POO em Java. Atividade desenvolvida do curso de Análise e Desenvolvimento de Sistemas Unicesumar.  </p>
 
 <p>Todos os exames devem armazenar algumas características em comum como por exemplo, nome do paciente, tipo sanguíneo e ano de nascimento.</p> 
   Já para cada tipo de exame é necessário características específicas como:<br>
@@ -23,5 +23,9 @@
                                De 10 a 19 anos: Inferior a 90 mg/dL<br>
                                Acima de 20 anos: Inferior a 150 mg/dL<br><br>
     <b>- Mostrar resultado:</b> Imprimir na tela o valor do exame e a classificação obtida.<br><br>
-    <b>- Cadastrar Exame:</b> No cadastro de exame deve ser lido os dados do exame, bem como a quantidade em mg/L.
+    <b>- Cadastrar Exame:</b> No cadastro de exame deve ser lido os dados do exame, bem como a quantidade em mg/L.<br><br>
+    <h3>Exemplo de funcionamento:</h3>
+    
+https://github.com/alfeukramer/analise-laboratorial-java/assets/87319747/1d04c46d-894b-42b4-9183-9ff63a1441d8
+
 
